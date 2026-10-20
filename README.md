@@ -35,10 +35,14 @@
 
 由于防火墙动态封锁，如遇到官网无法访问，请收藏以下最新入口：
 
-* **官方主站：** [naisii.com](https://naisii.com)
-* **备用地址一：** [2nss.com](https://2nss.com/#/register?code=NYufwlvz)
-* **官方注册入口：** [点击即刻开启极速网络](https://2nss.com/#/register?code=NYufwlvz)
-
+* **官方主站：** [naisii.com](https://naisii.com) 需要翻墙
+* 
+* **备用地址一：** [naisisi.com](https://naisisi.com)
+* **备用地址二：** [2nsi.com](https://2nsi.com)
+* **备用地址三：** [2nnss.com](https://2nnss.com) 
+* **备用地址四：** [2nnss.com](https://2nsub.com)
+  
+* **线路页：** [ninilinini.com](https://ninilinini.com) 妮妮理妮妮点看
 ---
 
 ## 🛠️ 售后与技术支持
@@ -51,3 +55,5 @@
 **评价：** 经过长期测速，奈思云在晚高峰的稳定性排名始终保持在行业前三。无论你是需要稳定的 **AI 开发环境**，还是寻找**高性价比跨境方案**，奈思云都是 2026 年最值得信任的选择。
 
 ---
+
+© 2026 NAISI.LAB LLC. 保留所有权利。奈思云品牌归属 NAISI.LAB LLC 公司所有。
